@@ -14,3 +14,5 @@ The objective of this project is to analyze city and prescriber data to gain ins
 - Reporting 
 
 ![image](https://github.com/javiizz/SparkProjects-Healthcare_Analysis/assets/163339387/14a025b7-eb02-41b8-a45d-024631596658)
+
+Documentation link : [Health Care Analysis with PySpark](https://github.com/javiizz/SparkProjects-Healthcare_Analysis/blob/main/Documents/Health%20Care%20Analysis%20with%20PySpark.pdf)
